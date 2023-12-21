@@ -49,9 +49,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.TextMeshPro", "Unity.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Performance.Profile-Analyzer.Editor", "Unity.Performance.Profile-Analyzer.Editor.csproj", "{bb4014c6-342a-b343-e532-7bb5a777f496}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.VSCode.Editor", "Unity.VSCode.Editor.csproj", "{a7678835-0ac1-1987-0c0b-15e332aedc64}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.Platform.Editor", "Oculus.Platform.Editor.csproj", "{0344648c-812c-1928-c67b-31f701a83698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.VSCode.Editor", "Unity.VSCode.Editor.csproj", "{a7678835-0ac1-1987-0c0b-15e332aedc64}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meta.XR.BuildingBlocks.Editor", "Meta.XR.BuildingBlocks.Editor.csproj", "{0bc579c0-256a-7297-e77d-cfc8e792bf8d}"
 EndProject
@@ -122,10 +122,10 @@ Global
 		{94af83a9-ca8c-7f51-c34e-40a06c3c3e64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{bb4014c6-342a-b343-e532-7bb5a777f496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{bb4014c6-342a-b343-e532-7bb5a777f496}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{a7678835-0ac1-1987-0c0b-15e332aedc64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{a7678835-0ac1-1987-0c0b-15e332aedc64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0344648c-812c-1928-c67b-31f701a83698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0344648c-812c-1928-c67b-31f701a83698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a7678835-0ac1-1987-0c0b-15e332aedc64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a7678835-0ac1-1987-0c0b-15e332aedc64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0bc579c0-256a-7297-e77d-cfc8e792bf8d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0bc579c0-256a-7297-e77d-cfc8e792bf8d}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1acd04b1-4011-3976-ea7c-da91dcf5b27d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU

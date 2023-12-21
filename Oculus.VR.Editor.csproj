@@ -85,8 +85,8 @@
      <Compile Include="Assets/Oculus/VR/Editor/OVRConfig.cs" />
      <Compile Include="Assets/Oculus/VR/Editor/OVRProjectSetup/Tasks/OVRConfigurationTaskSourceCode.cs" />
      <Compile Include="Assets/Oculus/VR/Editor/OVRProjectSetup/Tasks/Implementations/OVRProjectSetupXRTasks.cs" />
-     <Compile Include="Assets/Oculus/VR/Editor/OVRProjectSetup/Tasks/Implementations/OVRProjectSetupMovementTasks.cs" />
      <Compile Include="Assets/Oculus/VR/Editor/OVRScenePlaneEditor.cs" />
+     <Compile Include="Assets/Oculus/VR/Editor/OVRProjectSetup/Tasks/Implementations/OVRProjectSetupMovementTasks.cs" />
      <Compile Include="Assets/Oculus/VR/Editor/OVRSemanticClassificationEditor.cs" />
      <Compile Include="Assets/Oculus/VR/Editor/OVRProjectSetup/Tasks/OVRConfigurationTaskException.cs" />
      <Compile Include="Assets/Oculus/VR/Editor/OVRShaderBuildProcessor.cs" />

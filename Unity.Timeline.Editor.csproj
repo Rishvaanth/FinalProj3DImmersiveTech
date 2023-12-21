@@ -185,8 +185,8 @@
      <Compile Include="Library/PackageCache/com.unity.timeline@1.7.5/Editor/Window/TimelineMarkerHeaderGUI.cs" />
      <Compile Include="Library/PackageCache/com.unity.timeline@1.7.5/Editor/Window/Modes/TimelineAssetEditionMode.cs" />
      <Compile Include="Library/PackageCache/com.unity.timeline@1.7.5/Editor/Animation/AnimationTrackActions.cs" />
-     <Compile Include="Library/PackageCache/com.unity.timeline@1.7.5/Editor/Recording/TimelineRecording_PlayableAsset.cs" />
      <Compile Include="Library/PackageCache/com.unity.timeline@1.7.5/Editor/treeview/Drawers/Layers/ItemsLayer.cs" />
+     <Compile Include="Library/PackageCache/com.unity.timeline@1.7.5/Editor/Recording/TimelineRecording_PlayableAsset.cs" />
      <Compile Include="Library/PackageCache/com.unity.timeline@1.7.5/Editor/Animation/BindingTreeViewDataSource.cs" />
      <Compile Include="Library/PackageCache/com.unity.timeline@1.7.5/Editor/Signals/TreeView/SignalReceiverItem.cs" />
      <Compile Include="Library/PackageCache/com.unity.timeline@1.7.5/Editor/Recording/TimelineRecording_Monobehaviour.cs" />
@@ -194,10 +194,10 @@
      <Compile Include="Library/PackageCache/com.unity.timeline@1.7.5/Editor/CustomEditors/MarkerEditor.cs" />
      <Compile Include="Library/PackageCache/com.unity.timeline@1.7.5/Editor/Items/ItemsUtils.cs" />
      <Compile Include="Library/PackageCache/com.unity.timeline@1.7.5/Editor/inspectors/TimelinePreferences.cs" />
-     <Compile Include="Library/PackageCache/com.unity.timeline@1.7.5/Editor/Actions/IAction.cs" />
      <Compile Include="Library/PackageCache/com.unity.timeline@1.7.5/Editor/treeview/ItemGui/TimelineMarkerGUI.cs" />
      <Compile Include="Library/PackageCache/com.unity.timeline@1.7.5/Editor/Actions/TimelineAction.cs" />
      <Compile Include="Library/PackageCache/com.unity.timeline@1.7.5/Editor/Window/TimelineWindow_TimeArea.cs" />
+     <Compile Include="Library/PackageCache/com.unity.timeline@1.7.5/Editor/Actions/IAction.cs" />
      <Compile Include="Library/PackageCache/com.unity.timeline@1.7.5/Editor/treeview/TrackGui/TimelineTrackGUI.cs" />
      <Compile Include="Library/PackageCache/com.unity.timeline@1.7.5/Editor/Animation/CurvesProxy.cs" />
      <Compile Include="Library/PackageCache/com.unity.timeline@1.7.5/Editor/treeview/Drawers/Layers/MarkersLayer.cs" />

@@ -48,8 +48,8 @@
      <Compile Include="Assets/Oculus/Platform/Scripts/AccountAgeCategory.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/NetSyncVoipStreamMode.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/VoipPCMSourceNative.cs" />
-     <Compile Include="Assets/Oculus/Platform/Scripts/Models/SdkAccount.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/InviteOptions.cs" />
+     <Compile Include="Assets/Oculus/Platform/Scripts/Models/SdkAccount.cs" />
      <Compile Include="Assets/Oculus/Platform/Samples/VrHoops/Scripts/LeaderboardManager.cs" />
      <Compile Include="Assets/Oculus/Platform/Samples/VrHoops/Scripts/GoalMover.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/LeaderboardStartAt.cs" />
@@ -70,8 +70,8 @@
      <Compile Include="Assets/Oculus/Platform/Scripts/Models/Purchase.cs" />
      <Compile Include="Assets/Oculus/Platform/Samples/VrBoardGame/Scripts/PlatformManager.cs" />
      <Compile Include="Assets/Oculus/Platform/Samples/VrHoops/Scripts/P2PNetworkBall.cs" />
-     <Compile Include="Assets/Oculus/Platform/Samples/VrBoardGame/Scripts/MatchmakingManager.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/MatchmakingStatApproach.cs" />
+     <Compile Include="Assets/Oculus/Platform/Samples/VrBoardGame/Scripts/MatchmakingManager.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/ServiceProvider.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/VoipDtxState.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/Models/PartyUpdateNotification.cs" />
@@ -190,8 +190,8 @@
      <Compile Include="Assets/Oculus/Platform/Samples/VrHoops/Scripts/P2PNetworkGoal.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/ChallengeVisibility.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/Models/DeserializeableList.cs" />
-     <Compile Include="Assets/Oculus/Platform/Scripts/CloudStorageDataStatus.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/Models/AssetFileDownloadUpdate.cs" />
+     <Compile Include="Assets/Oculus/Platform/Scripts/CloudStorageDataStatus.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/InitConfigOptions.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/PlatformInitializeResult.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/Models/LaunchInvitePanelFlowResult.cs" />
@@ -224,8 +224,8 @@
      <Compile Include="Assets/Oculus/Platform/Samples/VrBoardGame/Scripts/IAPManager.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/VoipBitrate.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/Models/AssetFileDeleteResult.cs" />
-     <Compile Include="Assets/Oculus/Platform/Samples/VrVoiceChat/Scripts/P2PManager.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/LaunchType.cs" />
+     <Compile Include="Assets/Oculus/Platform/Samples/VrVoiceChat/Scripts/P2PManager.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/Models/MatchmakingStats.cs" />
      <Compile Include="Assets/Oculus/Platform/Samples/VrHoops/Scripts/RemotePlayer.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/AppAgeCategory.cs" />
@@ -246,8 +246,8 @@
      <Compile Include="Assets/Oculus/Platform/Scripts/Models/NetSyncSetSessionPropertyResult.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/Models/CloudStorageUpdateResponse.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/Models/PartyID.cs" />
-     <Compile Include="Assets/Oculus/Platform/Scripts/ChallengeViewerFilter.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/StandalonePlatformSettings.cs" />
+     <Compile Include="Assets/Oculus/Platform/Scripts/ChallengeViewerFilter.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/MicrophoneInputNative.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/Models/AchievementProgress.cs" />
      <Compile Include="Assets/Oculus/Platform/Scripts/Models/GroupPresenceJoinIntent.cs" />
