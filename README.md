@@ -20,3 +20,4 @@ Walkthrough:
 5. Once a shape is selected the user is prompted to choose A or X to decide what calculation is to be made.
 6. Values are input to the keypad followed by = to register in values. For example, the area of rectangle requires 2 values, length and width thus if the length is 2 and the width is 1, the sequence is "2 = 1 =" . Once the values are input in such manner, the area or perimeter whichever is chosen should appear on screen.
 7. The Graph functionality hasnt been implemented yet, we hope to do so in the coming days.
+8. The project can be found as FinalProj.apk
