@@ -46,7 +46,7 @@ public class Keyboard : MonoBehaviour
                     renderer.material = indiMat;
                     indicatedGameObj = hit.collider.gameObject;
                 }
-                if (OVRInput.Get(OVRInput.RawAxis1D.RIndexTrigger) > 0.f)              //change the color of the gameobject if it is selected
+                if (OVRInput.Get(OVRInput.RawAxis1D.RIndexTrigger) > 0.9f)              //change the color of the gameobject if it is selected
                 {
 
                     if (selectedGameObj == null)
