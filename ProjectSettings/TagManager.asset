@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Button
+  - MainMenu
+  - Math
+  - Geometry
+  - Graph
+  - 2D
+  - 3D
   layers:
   - Default
   - TransparentFX

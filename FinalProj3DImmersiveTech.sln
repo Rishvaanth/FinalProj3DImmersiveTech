@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.EditorCoroutines.Edit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.XR.LegacyInputHelpers", "UnityEngine.XR.LegacyInputHelpers.csproj", "{182a687a-98c5-4081-085d-ac159d48c9c3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{e5c2b237-2629-0b70-cc68-928f0e78c74d}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.VisualScripting.Shared.Editor", "Unity.VisualScripting.Shared.Editor.csproj", "{a8585ffc-d590-724c-9c68-3dd4958cbe77}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.CollabProxy.Editor", "Unity.CollabProxy.Editor.csproj", "{62b7dc5f-d2fa-d4d9-034a-6086e3849be4}"
@@ -170,6 +172,8 @@ Global
 		{ccd17c0e-c4d6-bc3a-3177-b27154a59d3d}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{182a687a-98c5-4081-085d-ac159d48c9c3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{182a687a-98c5-4081-085d-ac159d48c9c3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e5c2b237-2629-0b70-cc68-928f0e78c74d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e5c2b237-2629-0b70-cc68-928f0e78c74d}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{a8585ffc-d590-724c-9c68-3dd4958cbe77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{a8585ffc-d590-724c-9c68-3dd4958cbe77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62b7dc5f-d2fa-d4d9-034a-6086e3849be4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
